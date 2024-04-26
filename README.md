@@ -62,9 +62,3 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=genabdulrehman&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=VHS84835&show_icons=true&theme=radical"/>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHS84835&layout=compact"/>
