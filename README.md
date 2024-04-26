@@ -19,7 +19,7 @@
 
 <div align="center">
 <h1>
-  Hey there, I'm Abdulrehman!
+  Hey there, I'm Vivek Shimpi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
