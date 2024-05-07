@@ -60,7 +60,4 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=genabdulrehman&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vivek84835V&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D&ring=EBEBEB&fire=EB1514&currStreakLabel=000000&dates=000000&currStreakNum=FF5F00&background=45%2C76FFF3%2CBD7AFF)](https://git.io/streak-stats)
